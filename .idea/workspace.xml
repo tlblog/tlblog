@@ -5,36 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f0ab625-2cac-4098-964c-178e2062b46e" name="Changes" comment="提交代码">
-      <change afterPath="$PROJECT_DIR$/dist/assets/AboutView-C6Dx7pxG.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/AboutView-wrXkLaE5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/index-CL4b2KRf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/index-DHqK1tyo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TheWelcome.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WelcomeItem.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/icons/IconCommunity.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/icons/IconDocumentation.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/icons/IconEcosystem.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/icons/IconSupport.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/icons/IconTooling.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/AboutView.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/HomeView.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/AboutView-C6Dx7pxG.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/AboutView-C6Dx7pxG.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/AboutView-wrXkLaE5.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/AboutView-wrXkLaE5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-CL4b2KRf.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index-CL4b2KRf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-DHqK1tyo.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index-DHqK1tyo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +96,7 @@
       <updated>1709228865897</updated>
       <workItem from="1709228866997" duration="1554000" />
       <workItem from="1709230830815" duration="3073000" />
-      <workItem from="1709233912290" duration="930000" />
+      <workItem from="1709233912290" duration="1286000" />
     </task>
     <task id="LOCAL-00001" summary="提交代码">
       <option name="closed" value="true" />
@@ -178,7 +154,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709234259687</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="提交代码">
+      <option name="closed" value="true" />
+      <created>1709234857958</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709234857958</updated>
+    </task>
+    <task id="LOCAL-00009" summary="提交代码">
+      <option name="closed" value="true" />
+      <created>1709234896798</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709234896798</updated>
+    </task>
+    <task id="LOCAL-00010" summary="提交代码">
+      <option name="closed" value="true" />
+      <created>1709235138611</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709235138611</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
